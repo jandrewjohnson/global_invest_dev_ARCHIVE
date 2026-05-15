@@ -230,3 +230,4 @@ global_invest/pollination/__pycache__/__init__.cpython-313.pyc
 global_invest.egg-info/PKG-INFO
 *.pyd
 *.c
+*.DS_Store
