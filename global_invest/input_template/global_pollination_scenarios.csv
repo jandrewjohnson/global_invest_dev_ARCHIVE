@@ -1,0 +1,2 @@
+scenario_label,scenario_type,lulc_src_label,lulc_simplification_label,model_label,base_years,years,baseline_reference_label
+baseline_2017,baseline,esa,seals7,test,[2017],[],
